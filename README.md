@@ -4,7 +4,7 @@ Grapnel
 #### The smallest (1100 bytes gzipped!) Client/Server-Side JavaScript Router with Named Parameters, HTML5 pushState, and Middleware support.
 
 ## For non-developers
-Grapnel determines how an application should respond to a request to a specific URL and a particular HTTP request method (GET, POST, and so on). This keeps URL in sync with the page being displayed. It works both on client and server side which means you can share route definition on both sides. It supports Named Parameters to allow passing extra arguments to specific route handler. HTML5 pushstate help you get rid of the hash in URL on your client side.
+Grapnel determines how an application should respond to a request to a specific URL and a particular HTTP request method (GET, POST, and so on). This keeps URL in sync with the page being displayed. It works both on client and server side which means you can share route definition on both sides. It supports Named Parameters to allow passing extra arguments to specific route handler. HTML5 pushstate help you get rid of the hash in URL on your client side. Middleware allow you to define additional stack of actions that you want an application to do.
 
 ## Download/Installation
 
